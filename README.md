@@ -41,4 +41,6 @@ Project: `RetailInventory` (.NET Console App)
 
 ### Week 6
 - **Angular** — Student course portal with components, directives, pipes, services, routing
+
+### Week 7
 - **GIT** — Git hands-on commands and workflow
